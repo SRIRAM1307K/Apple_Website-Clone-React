@@ -1,16 +1,30 @@
-<<<<<<< HEAD
-# Apple_Website-Clone-React
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Apple Website Clone
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a responsive clone of the Apple homepage built using **React** and **Tailwind CSS**. It replicates the sleek, modern design of Apple's website with a focus on responsiveness and interactivity.
 
-## Expanding the ESLint configuration
+### ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> d8c824f (firstOne)
+* ✅ Fully responsive **navigation bar** and **footer**
+* 📱 Clean and flexible **hero sections** using `flex` and `responsive utilities`
+* 🔗 All links are functional and correctly routed
+* 🎯 Styled with **Tailwind CSS** for modern UI and quick layout control
+* ⚛️ Built with **React** for modular, reusable components
+
+### 🚀 Technologies Used
+
+* React
+* Tailwind CSS
+* HTML5 & CSS3 (via JSX and Tailwind)
+
+### 📂 Getting Started
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/your-username/apple-clone.git
+cd apple-clone
+npm install
+npm start
+```
