@@ -8,6 +8,7 @@ This is a responsive clone of the Apple homepage built using **React** and **Tai
 
 * ✅ Fully responsive **navigation bar** and **footer**
 * 📱 Clean and flexible **hero sections** using `flex` and `responsive utilities`
+* 🎞️ Scrollable Apple TV+ movie ads – horizontally scrollable carousel-style section showcasing movies and shows
 * 🔗 All links are functional and correctly routed
 * 🎯 Styled with **Tailwind CSS** for modern UI and quick layout control
 * ⚛️ Built with **React** for modular, reusable components
